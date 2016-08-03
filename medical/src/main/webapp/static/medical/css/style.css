@@ -1,0 +1,80 @@
+.autocomplete-suggestions { overflow: auto; border: 1px solid #CBD3DD; background: #FFF; }
+
+.autocomplete-suggestion { overflow: hidden; padding: 5px 15px; white-space: nowrap; }
+
+.autocomplete-selected { background: #F0F0F0; }
+
+.autocomplete-suggestions strong { color: #1fadd7; font-weight: normal; }
+.uploadfile{
+  position: relative;
+}
+.uploadfile .msg{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  background-color: #4aa3df;
+  font-size: 12px;
+}
+
+.login_warper{
+	width: 300px;
+	margin: 100px auto;
+}
+.login_warper legend{
+	text-align: center;
+	border: none;
+}
+.login_warper input{
+	width: 286px;
+}
+.login_warper .form-actions{
+	background-color: #fff;
+	padding: 0px;
+	border: none;
+}
+.login_warper button{
+	width: 100%;
+}
+
+.box{
+	margin-top: 20px;
+}
+.box .search-box,.box .form{
+  padding: 10px;
+}
+.box .search-box form{
+  margin: 0px;
+}
+.box-header{
+	background-color: #2980b9;
+	color: #fff;
+	padding: 10px;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.box-header .title{
+	margin: 0px;
+}
+.box-header .title a{
+  color: #fff;  
+}
+.box-body{
+	border:1px solid #2980b9;
+	border-top: none;
+}
+.box-header ul li a{
+	color: #fff;
+	text-decoration: none;
+	border-radius: 3px;
+	padding: 5px;
+}
+.box-header ul li a:hover{
+	color: #2c3e50;
+	background-color: #fff;
+}
+
+
+
